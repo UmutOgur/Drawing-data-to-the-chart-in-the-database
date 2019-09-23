@@ -1,0 +1,9 @@
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\SqldenGrafigeVeriCekme\SqldenGrafigeVeriCekme\bin\Debug\SqldenGrafigeVeriCekme.exe.config
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\SqldenGrafigeVeriCekme\SqldenGrafigeVeriCekme\bin\Debug\SqldenGrafigeVeriCekme.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\SqldenGrafigeVeriCekme\SqldenGrafigeVeriCekme\bin\Debug\SqldenGrafigeVeriCekme.pdb
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\SqldenGrafigeVeriCekme\SqldenGrafigeVeriCekme\obj\Debug\SqldenGrafigeVeriCekme.csprojResolveAssemblyReference.cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\SqldenGrafigeVeriCekme\SqldenGrafigeVeriCekme\obj\Debug\SqldenGrafigeVeriCekme.Form1.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\SqldenGrafigeVeriCekme\SqldenGrafigeVeriCekme\obj\Debug\SqldenGrafigeVeriCekme.Properties.Resources.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\SqldenGrafigeVeriCekme\SqldenGrafigeVeriCekme\obj\Debug\SqldenGrafigeVeriCekme.csproj.GenerateResource.Cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\SqldenGrafigeVeriCekme\SqldenGrafigeVeriCekme\obj\Debug\SqldenGrafigeVeriCekme.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\SqldenGrafigeVeriCekme\SqldenGrafigeVeriCekme\obj\Debug\SqldenGrafigeVeriCekme.pdb
